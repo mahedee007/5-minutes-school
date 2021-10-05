@@ -1,0 +1,6 @@
+hr {
+  border: dotted 6px black;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
